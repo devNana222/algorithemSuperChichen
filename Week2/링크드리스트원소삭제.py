@@ -50,7 +50,7 @@ class LinkedList:
         return
 
 
-linked_list = LinkedList(5)산
+linked_list = LinkedList(5)
 linked_list.append(12)
 linked_list.add_node(0, 3)
 linked_list.delete_node(3)
